@@ -1,1 +1,1 @@
-# Dashboard-Covid-19
+I created a simple and interactive dashboard showing the evolution of the number of confirmed cases, vaccinations, tests carried out and number of deaths. Moreover, this evolution is synchronized every day since the information is extracted from a synchronized database.
